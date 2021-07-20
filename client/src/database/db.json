@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Khushi",
+      "username": "khushigupta",
+      "email": "khushiguptaofficials@gmail.com",
+      "phone": "1234567890",
+      "id": 1
+    },
+    {
+      "name": "Deepika",
+      "username": "deepika",
+      "email": "deepika@gmail.com",
+      "phone": "1234567890",
+      "id": 3
+    },
+    {
+      "name": "Shahrukh",
+      "username": "shahrukh",
+      "email": "shahrukh@gmail.com",
+      "phone": "1234567890",
+      "id": 4
+    },
+    {
+      "name": "Priyanka",
+      "username": "priyanka",
+      "email": "priyanka@gmail.com",
+      "phone": "1234567890",
+      "id": 5
+    }
+  ]
+}
